@@ -19,6 +19,9 @@ O dev.finance$ é um projeto que foi desenvolvido na maratona Discover da Rocket
 - CSS
 - JS
 
+## ✅ Melhorias
+Inserido opção para selecionar se é uma receita ou despesa.
+
 ## 👀 Ver o projeto
 <a href="https://andressa-lw.github.io/maratona-dev.finance/index.html" target="_blank">Clique aqui</a>
 
